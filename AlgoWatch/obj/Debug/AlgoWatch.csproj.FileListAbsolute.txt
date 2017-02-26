@@ -1,0 +1,5 @@
+D:\Visual Studio 2012\Projects\AlgoWatch\AlgoWatch\bin\AlgoWatch.dll
+D:\Visual Studio 2012\Projects\AlgoWatch\AlgoWatch\bin\AlgoWatch.pdb
+D:\Visual Studio 2012\Projects\AlgoWatch\AlgoWatch\obj\Debug\AlgoWatch.dll
+D:\Visual Studio 2012\Projects\AlgoWatch\AlgoWatch\obj\Debug\AlgoWatch.pdb
+D:\Visual Studio 2012\Projects\AlgoWatch\AlgoWatch\obj\Debug\AlgoWatch.csprojResolveAssemblyReference.cache
